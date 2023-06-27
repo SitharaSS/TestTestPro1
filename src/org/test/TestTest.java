@@ -6,6 +6,8 @@ public class TestTest {
 	}
 	private void login() {
 		System.out.println("This is by Sithara branch");
-
+	}
+	private void Search() {
+		System.out.println("This is from Sherin");
 	}
 }
